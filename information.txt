@@ -1,0 +1,9 @@
+git basic commands 
+{
+    - git init _inicializar el repositorio.
+    - git config -l _ver las configuraciones del git global.
+    - git add . _preparar los archivos para el repositorio.
+    - git commit -m '' _agregar los commits con mensajes.
+    - git log /log -p _ver el historial de commits.
+    - git status _ saber si hay cambios por levantar.
+}
